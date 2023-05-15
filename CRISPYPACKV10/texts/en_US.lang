@@ -1,0 +1,25 @@
+menu.howToPlay=§f§lCRISPY§b§lNETWORK
+menu.howToPlay.generalMessage=Welcome To §f§lCRISPY§b§lNETWORK!
+howtoplay.category.dakon=§a§f§lCRISPY§b§lNETWORK §e§lS19
+
+howtoplay.template=Server Information
+
+howtoplay.template.title=Information
+
+template.header.title0=§dDonation
+dakon.template.text0=§dDonate this server on : saweria.co/FirstmediaID
+
+template.header.title1=§aVote Server
+dakon.template.text1=§aVote Link : bit.ly/vipz-vote
+
+
+howtoplay.tempone=Support
+
+howtoplay.tempone.title=Help & Support
+
+
+tempone.header.title0=§cOnline Support
+dakon.tempone.text0=Found a bug or problem in server? contact us at §ebit.ly/vipz-dc
+
+tempone.header.title1=Developed By
+dakon.tempone.text1=§cFirstmediaID

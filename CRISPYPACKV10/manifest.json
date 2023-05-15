@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§dMade By FirstmediaID",
+        "name": "§f§lCRISPY§b§lPACK §e§lV10",
+        "uuid": "6ea58b22-ac60-11ea-bb37-0242ac130002",
+        "version": [1, 9, 14]
+    },
+    "modules": [
+        {
+            "description":"play.crispymc.net",
+            "type": "resources",
+            "uuid": "6ea58d3e-ac60-11ea-bb37-0242ac130002",
+            "version": [1, 4, 14]
+        }
+    ]
+}
